@@ -19,4 +19,4 @@
 
 ## Live Link
 
-[Netlify](https://trends2025webpage.netlify.app/)
+[Netlify](https://restauranttheme.netlify.app/)
